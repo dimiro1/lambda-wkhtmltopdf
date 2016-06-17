@@ -1,0 +1,31 @@
+{
+  "name": "lambda-wkhtmltopdf",
+  "version": "0.0.1",
+  "description": "Convert HTML to PDF using Webkit (QtWebKit) on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimiro1/lambda-wkhtmltopdf.git"
+  },
+  "keywords": [
+    "aws",
+    "amazon",
+    "lambda",
+    "javascript",
+    "wkhtmltopdf"
+  ],
+  "author": "Claudemiro <dimiro1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimiro1/lambda-wkhtmltopdf/issues"
+  },
+  "homepage": "https://github.com/dimiro1/lambda-wkhtmltopdf#readme",
+  "dependencies": {
+    "aws-sdk": "^2.4.0",
+    "hewer": "^0.3.1",
+    "wkhtmltopdf": "^0.3.1"
+  }
+}
