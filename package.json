@@ -27,5 +27,12 @@
     "aws-sdk": "^2.4.0",
     "hewer": "^0.3.1",
     "wkhtmltopdf": "^0.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-jsx-a11y": "^1.5.3",
+    "eslint-plugin-react": "^5.2.2"
   }
 }

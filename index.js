@@ -30,7 +30,6 @@ const logger = config.logger;
 const S3 = new AWS.S3();
 
 // handler handle eventes in the following format
-// 
 // {
 //     "data" : "<h1>Claudemiro</h1>",
 //     "filename": "optional filename",
