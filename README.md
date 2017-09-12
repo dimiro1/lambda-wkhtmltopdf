@@ -1,5 +1,5 @@
 # lambda-wkhtmltopdf
-Convert HTML to PDF using Webkit (QtWebKit) on AWS Lambda
+Convert HTML to PDF using wkhtmltopdf on AWS Lambda
 
 ## Input
 
